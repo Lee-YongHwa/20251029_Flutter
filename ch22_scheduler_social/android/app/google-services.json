@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574707704618",
+    "project_id": "calendar-20251120-b4f0e",
+    "storage_bucket": "calendar-20251120-b4f0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574707704618:android:7b33496ad27601fee1f453",
+        "android_client_info": {
+          "package_name": "com.example.ch22_scheduler_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574707704618-1l4fgtjpj3v55vnmj2euhvs0b9vjm0fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPKR_xBUdh1rLpaNNjrf2LDHsO2jW3vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574707704618-1l4fgtjpj3v55vnmj2euhvs0b9vjm0fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
